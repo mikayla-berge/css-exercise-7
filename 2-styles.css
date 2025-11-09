@@ -1,0 +1,14 @@
+html{
+    background-image: url("images/2-square-tile.gif");
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.wrapper{
+    background-color: rgb(250, 196, 61);
+    border-style: solid;
+    border-color: rgb(244, 152, 13);
+    border-width: 7px;
+    padding: 10px;
+}
+
